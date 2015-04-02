@@ -2,7 +2,6 @@
 layout: post
 title: Some Interesting Blogs
 category: Meta
-author: Oliver Fenton
 
 excerpt: Some interesting tech blogs worth reading
 

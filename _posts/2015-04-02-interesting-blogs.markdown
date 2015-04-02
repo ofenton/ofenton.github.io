@@ -8,7 +8,7 @@ excerpt: Some interesting tech blogs worth reading
 
 ---
 
-With thanks to [Syamantak][sm].
+With thanks to [Syamantak][sm]
 
  * Insights from [ThoughtWorks][tw].
 

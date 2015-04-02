@@ -6,6 +6,7 @@ author: Oliver Fenton
 
 excerpt: Some interesting tech blogs worth reading coutesy of [Syamantak][sm].
 
+[sm]: https://github.com/syamantm
 ---
 
  * Insights from [ThoughtWorks][tw].
@@ -16,7 +17,6 @@ excerpt: Some interesting tech blogs worth reading coutesy of [Syamantak][sm].
 
  * Tech blogs from [Twitter][tw] and [Atlassian][at] aren't bad either.
 
-[sm]: https://github.com/syamantm
 [tw]: http://www.thoughtworks.com/insights
 [mf]: http://martinfowler.com/
 [li]: https://engineering.linkedin.com/blog

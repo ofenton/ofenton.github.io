@@ -4,9 +4,8 @@ title: Some Interesting Blogs
 category: Meta
 author: Oliver Fenton
 
-excerpt: Some interesting tech blogs worth reading coutesy of [Syamantak][sm].
+excerpt: Some interesting tech blogs worth reading coutesy of [Syamantak](https://github.com/syamantm).
 
-[sm]: https://github.com/syamantm
 ---
 
  * Insights from [ThoughtWorks][tw].

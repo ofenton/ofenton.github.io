@@ -7,8 +7,6 @@ excerpt: Some interesting tech blogs worth reading
 
 ---
 
-With thanks to [Syamantak][sm]
-
  * Insights from [ThoughtWorks][tw].
 
  * Martin Fowler's personal [blog][mf].
@@ -17,10 +15,12 @@ With thanks to [Syamantak][sm]
 
  * Tech blogs from [Twitter][tw] and [Atlassian][at] aren't bad either.
 
-[sm]: https://github.com/syamantm
+With thanks to [Syamantak][sm] for suggesting these.
+
 [tw]: http://www.thoughtworks.com/insights
 [mf]: http://martinfowler.com/
 [li]: https://engineering.linkedin.com/blog
 [nf]: http://techblog.netflix.com/
 [tw]: https://blog.twitter.com/engineering
 [at]: http://blogs.atlassian.com/  
+[sm]: https://github.com/syamantm
